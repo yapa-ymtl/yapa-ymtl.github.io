@@ -7,6 +7,8 @@
 (() => {
     'use strict'
   
+
+    // Example: Set navbar color based on theme
     const getStoredTheme = () => localStorage.getItem('theme')
     const setStoredTheme = theme => localStorage.setItem('theme', theme)
   
@@ -79,3 +81,4 @@
     })
   })()
   
+
