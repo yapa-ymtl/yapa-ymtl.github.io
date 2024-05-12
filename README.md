@@ -14,3 +14,7 @@ This repository contains the source code for my personal portfolio website. I de
 
 Icons used in this website are sourced from [Tabler Icons](https://tabler.io/icons).
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
