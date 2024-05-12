@@ -12,7 +12,13 @@ This repository contains the source code for my personal portfolio website. I de
 
 ## Credits
 
-Icons used in this website are sourced from [Tabler Icons](https://tabler.io/icons).
+This project utilizes the following resources:
+
+- [Bootstrap](https://getbootstrap.com/): Used for building the responsive layout and styling of the website.
+- [Tabler Icons](https://tabler.io/icons): Icons sourced from Tabler Icons to enhance the visual elements of the website.
+- [GitHub](https://github.com/): Hosted on GitHub, making it easy to collaborate, track changes, and manage the project.
+
+Special thanks to the developers and contributors of Bootstrap, Tabler Icons, and GitHub for their valuable contributions to the open-source community.
 
 ## License
 
